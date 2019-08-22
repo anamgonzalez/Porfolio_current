@@ -103,24 +103,6 @@ export const pageQuery = graphql`
         }
       }
     }
-    projects: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/projects/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            title
-            image
-            tech
-            github
-            external
-            show
-          }
-          html
-        }
-      }
-    }
     contact: allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/contact/" } }) {
       edges {
         node {
