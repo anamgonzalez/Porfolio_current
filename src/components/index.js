@@ -10,7 +10,6 @@ import Layout from './layout';
 import Loader from './loader';
 import Menu from './menu';
 import Nav from './nav';
-import Projects from './projects';
 import Social from './social';
 
 export {
@@ -26,6 +25,5 @@ export {
   Loader,
   Menu,
   Nav,
-  Projects,
   Social,
 };
