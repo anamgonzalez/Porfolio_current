@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Ana Gonzalez | Software Developer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Ana Gonzalez is a software developer based in Miami, Fl.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Ana Gonzalez, Ana, Gonzalez, bchiang7, software developer, front-end developer, web developer, javascript, northeastern',
+  siteUrl: 'https://anamariagonzalez.info',
   siteLanguage: 'en_US',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7/',
+  name: 'Ana Gonzalez',
+  location: 'Miami, MA',
+  email: 'ana.m.gonzalez0496@gmail.com',
+  github: 'https://github.com/anamgonzalez',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/anamgonzalez',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/amg1996/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
+      url: 'https://codepen.io/anamgonzalez',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/anamgonzalezart/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/an_amria',
     },
   ],
 
@@ -55,14 +55,14 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@an_amria',
   googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,
 
-  greenColor: '#64ffda',
-  navyColor: '#0a192f',
-  darkNavyColor: '#020c1b',
+  greenColor: '#CEECF2',
+  navyColor: '#394D59',
+  darkNavyColor: '#142F40',
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
