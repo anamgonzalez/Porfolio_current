@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
-contactText: 'Get In Touch'
+name: 'Ana Gonzalez'
+subtitle: 'I am a designer and developer'
+contactText: 'Contact me'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+Hello! I'm Ana, a software developer based in Miami, FL. I am a designer and developer who enjoys creating websites that are user friendly and beautiful.
