@@ -1,7 +1,7 @@
 ---
 date: '2019-02-10'
 title: 'Technical Project Manager'
-company: 'International Association of Curators of Contemporary Art'
+company: 'IKT'
 location: 'Miami Beach, Fl'
 range: 'Dec - Feb 2019'
 url: 'https://www.iktsite.org/'
