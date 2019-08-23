@@ -1,7 +1,8 @@
 ---
-date: '3'
+date: '1'
 title: 'El Hilo Studio'
 cover: './pin-simple.png'
+github: 'https://github.com/anamgonzalez/'
 external: 'https://www.elhilostudio.com'
 tech:
   - Squarespace
