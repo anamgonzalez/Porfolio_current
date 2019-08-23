@@ -9,7 +9,7 @@ tech:
   - Adobe Illustrator
   - Adobe Photoshop
   - E-commerce integration 
-show: 'false'
+show: 'true'
 ---
 
 UX/UI redesign of local beauty company. Client centered photography and scheduling with pre-pay. Ongoing project. 
