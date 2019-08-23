@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Head, Nav, Social, Email, Footer } from '@components';
+import { Head, Loader, Nav, Social, Email, Footer } from '@components';
 import styled from 'styled-components';
 import { GlobalStyle, theme } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -78,6 +78,17 @@ const Layout = ({ children }) => {
           <GlobalStyle />
 
           <SkipToContent href="#content">Skip to Content</SkipToContent>
+          {isLoading ? (
+            <Loader finishLoading={() => setIsLoading(false)} />
+          ) : (
+            <div className="container">
+              <Nav />
+              <Social />
+              <Email />
+              {children}
+              <Footer githubInfo={githubInfo} />
+            </div>
+          )}
         </div>
       )}
     />
