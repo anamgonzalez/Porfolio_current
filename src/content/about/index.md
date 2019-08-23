@@ -16,4 +16,4 @@ Hello! I'm Ana, a software developer based in Miami, FL. I am a designer and dev
 
 Shortly after graduating from [University of Miami](https://welcome.miami.edu/), I decided to pursue development at [Wyncode Academy](https://www.wyncode.co/). 
 
-Here's a few websites I've been working on recently:
+Here are some of my skills:
